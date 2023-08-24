@@ -1,7 +1,9 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Dadashov Murad</h1>
 <h3 align="center">A passionate Backend Developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
+
+<img align="right" alt="Coding" width="420" height="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top: 50px;">
 
 
 
