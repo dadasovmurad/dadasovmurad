@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **dadashovm243@gmail.com**
 
